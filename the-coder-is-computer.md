@@ -2,9 +2,9 @@
 ## Linux Tutorial
 ـــــــــــــــــــــــــــ
 
-**Linux has a graphical user interface and it works pretty much like the GUI's on other systems
-that you are familiar with such as Windows and OSX.
-This tutorial won't focus on these as I reckon you can probably figure that part out by yourself. 
+**Linux has a graphical user interface and it works pretty much like the GUI's on other systems that you are
+familiar with such as Windows and OSX.
+This tutorial won't focus on these as I reckon you can probably figure that part out by yourself.
 This tutorial will focus instead on the command line (also known as a terminal) running Bash**
 
 
